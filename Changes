@@ -1,0 +1,8 @@
+Revision history for Perl extension NTS::Template.
+
+2.0   Sun Dec 14 21:50:27 BRST 2003
+	- core rewrited
+    - more stable / more speed
+
+< 2.0
+    - Old version: Ananke::Template
